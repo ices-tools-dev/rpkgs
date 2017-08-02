@@ -61,5 +61,8 @@ Marcial, L.H., and Hemminger, B.M. 2010. Scientific data repositories on the
 web: an initial survey. Journal of the American Society for Information Science
 and Technology, 61: 2029-2048.
 
+R Core Team. 2017. Writing R Extensions. R Foundation for Statistical Computing,
+Vienna.
+
 Richardson, L., and Ruby, S. 2007. RESTful Web Services. O'Reilly, Sebastopol,
 CA.
