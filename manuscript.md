@@ -1,8 +1,12 @@
-# ICES data at our fingertips: an overview of new and upcoming technologies
+---
+title: "ICES data at our fingertips: an overview of new and upcoming technologies"
+author: Colin Millar, Arni Magnusson, Scott Large, and Carlos Pinto
+output: pdf_document
+bibliography: references.bib
+csl: ices_jms.csl
+---
 
-*Colin Millar, Arni Magnusson, Scott Large, and Carlos Pinto*
-
-## Bridging the gap between data and analysis
+# Bridging the gap between data and analysis
 
 Traditionally, the task of getting and preprocessing scientific data has been
 quite separate from the subsequent data analysis. This can make it challenging
@@ -14,7 +18,7 @@ directly into the R software platform, where the data analysis takes place. This
 benefits scientists, both when working with scripted workflows and when
 exploring data interactively.
 
-## R packages and web services
+# R packages and web services
 
 The ICES Secretariat has recently developed R packages that provide functions to
 read data directly from ICES databases via web services. The packages are
@@ -43,7 +47,7 @@ The data are then converted (parsed) to create an R data frame.
 The R functions perform these tasks behind the scences, but the user is provided
 with a simple and efficient interface to specify the data to retrieve.
 
-## Reproducible research
+# Reproducible research
 
 Access to additional ICES databases is likely to follow in the future.
 
@@ -52,17 +56,6 @@ fully reproducible research. When a previous analysis is rerun it should give
 the same result as before, even if the contents of the underlying database have
 changed since the original analysis.]
 
-## References
+Blah blah [@alonso2004; @richardson2008; @team2017; @marcial2010].
 
-Alonso, G., Casati, F., Kuno, H., and Machiraju, V. 2004. Web Services:
-Concepts, Architectures and Applications. Springer, Berlin.
-
-Marcial, L.H., and Hemminger, B.M. 2010. Scientific data repositories on the
-web: an initial survey. Journal of the American Society for Information Science
-and Technology, 61: 2029-2048.
-
-R Core Team. 2017. Writing R Extensions. R Foundation for Statistical Computing,
-Vienna.
-
-Richardson, L., and Ruby, S. 2007. RESTful Web Services. O'Reilly, Sebastopol,
-CA.
+# References
