@@ -57,6 +57,6 @@ fully reproducible research. When a previous analysis is rerun it should give
 the same result as before, even if the contents of the underlying database have
 changed since the original analysis.]
 
-Blah blah [@alonso2004; @richardson2008; @team2017; @marcial2010].
+Blah blah [@alonso2004; @richardson2008; @marcial2010; @borgman2015; @team2017].
 
 # References
