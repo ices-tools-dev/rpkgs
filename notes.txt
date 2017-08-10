@@ -1,0 +1,36 @@
+
+At this early stage, the planned structure of the manuscript is as follows:
+
+Title - ICES data at our fingertips: an overview of new and upcoming technologies
+
+* Bridging the gap between data and analysis
+
+    We will introduce new technologies and pathways to read ICES data directly
+    into the R software platform, where the data analysis takes place. This
+    benefits scientists, both when working with scripted workflows and when
+    exploring data interactively.
+
+* R packages and web services
+
+    Description of web service technology and the four new ICES packages in R to access
+    trawl survey data, stock assessment results, stock database entries, and general
+    reference codes.
+
+* Showcasing current and potential applications
+
+    [Trivial: survey data - North Sea cod]
+    [Trivial: stock status relative to refpts - North Sea plaice]
+    [Trivial: supporting lookup tables]
+    [Cool: map showing Kobe plots of stock status (F/Fmsy and B/Bmsy) by ecoregion!]
+
+    [Cite: Thorson's analysis of Datras data, others?]
+	  [Cite: maps of index of recruitment (age 1) and index of SSB of groundfish]
+    [Cite: analysis of length weight data from Datras]
+    [Cite: fisheries overviews]
+
+
+* Discussion
+
+  Reproducible research, open science
+  Makes data more approachable, easier to find errors
+  Fits with modern workflow and tools: web apps, etc.
