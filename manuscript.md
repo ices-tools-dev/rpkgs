@@ -1,6 +1,7 @@
 ---
 title: "ICES data at our fingertips: an overview of new and upcoming technologies"
-author: Colin Millar, Arni Magnusson, Scott Large, and Carlos Pinto
+author: Colin Millar, Arni Magnusson, Scott Large, Carlos Pinto, and Neil
+        Holdsworth
 output: pdf_document
 bibliography: references.bib
 csl: ices_jms.csl
